@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/asifbhat/Projects/Wakett/Wakett/Wakett.csproj": {}
+    "/Users/asifbhat/Projects/distributed-ddd-eventdriven-microservices/Wakett/Wakett.csproj": {}
   },
   "projects": {
-    "/Users/asifbhat/Projects/Wakett/Wakett/Wakett.csproj": {
+    "/Users/asifbhat/Projects/distributed-ddd-eventdriven-microservices/Wakett/Wakett.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/asifbhat/Projects/Wakett/Wakett/Wakett.csproj",
+        "projectUniqueName": "/Users/asifbhat/Projects/distributed-ddd-eventdriven-microservices/Wakett/Wakett.csproj",
         "projectName": "Wakett",
-        "projectPath": "/Users/asifbhat/Projects/Wakett/Wakett/Wakett.csproj",
+        "projectPath": "/Users/asifbhat/Projects/distributed-ddd-eventdriven-microservices/Wakett/Wakett.csproj",
         "packagesPath": "/Users/asifbhat/.nuget/packages/",
-        "outputPath": "/Users/asifbhat/Projects/Wakett/Wakett/obj/",
+        "outputPath": "/Users/asifbhat/Projects/distributed-ddd-eventdriven-microservices/Wakett/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/asifbhat/.nuget/NuGet/NuGet.Config"

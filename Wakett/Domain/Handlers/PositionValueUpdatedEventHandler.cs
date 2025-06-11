@@ -24,7 +24,7 @@ public class PositionValueUpdatedHandler : INotificationHandler<PositionValueUpd
             await _messageBus.PublishAsync(new PositionValueDto(
                 notification.PositionId,
                 notification.NewValue,
-                DateTime.UtcNow), "rate-change-event"); //rate-change-event exists in Azure
+                DateTime.UtcNow), "rate-change-event");
 
             _logger.LogInformation("Published position {PositionId} update: {Value}",
                 notification.PositionId,

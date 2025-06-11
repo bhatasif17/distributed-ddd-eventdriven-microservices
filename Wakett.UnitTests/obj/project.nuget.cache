@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "En4MsTbW4AI=",
+  "dgSpecHash": "iocQj/TX6kE=",
   "success": true,
-  "projectFilePath": "/Users/asifbhat/Projects/Wakett/Wakett.UnitTests/Wakett.UnitTests.csproj",
+  "projectFilePath": "/Users/asifbhat/Projects/distributed-ddd-eventdriven-microservices/Wakett.UnitTests/Wakett.UnitTests.csproj",
   "expectedPackageFiles": [
     "/Users/asifbhat/.nuget/packages/azure.core/1.44.1/azure.core.1.44.1.nupkg.sha512",
     "/Users/asifbhat/.nuget/packages/azure.core.amqp/1.3.1/azure.core.amqp.1.3.1.nupkg.sha512",

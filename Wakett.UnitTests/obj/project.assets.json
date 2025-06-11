@@ -7248,11 +7248,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/asifbhat/Projects/Wakett/Wakett.UnitTests/Wakett.UnitTests.csproj",
+      "projectUniqueName": "/Users/asifbhat/Projects/distributed-ddd-eventdriven-microservices/Wakett.UnitTests/Wakett.UnitTests.csproj",
       "projectName": "Wakett.UnitTests",
-      "projectPath": "/Users/asifbhat/Projects/Wakett/Wakett.UnitTests/Wakett.UnitTests.csproj",
+      "projectPath": "/Users/asifbhat/Projects/distributed-ddd-eventdriven-microservices/Wakett.UnitTests/Wakett.UnitTests.csproj",
       "packagesPath": "/Users/asifbhat/.nuget/packages/",
-      "outputPath": "/Users/asifbhat/Projects/Wakett/Wakett.UnitTests/obj/",
+      "outputPath": "/Users/asifbhat/Projects/distributed-ddd-eventdriven-microservices/Wakett.UnitTests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/asifbhat/.nuget/NuGet/NuGet.Config"
@@ -7267,8 +7267,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/asifbhat/Projects/Wakett/Wakett/Wakett.csproj": {
-              "projectPath": "/Users/asifbhat/Projects/Wakett/Wakett/Wakett.csproj"
+            "/Users/asifbhat/Projects/distributed-ddd-eventdriven-microservices/Wakett/Wakett.csproj": {
+              "projectPath": "/Users/asifbhat/Projects/distributed-ddd-eventdriven-microservices/Wakett/Wakett.csproj"
             }
           }
         }

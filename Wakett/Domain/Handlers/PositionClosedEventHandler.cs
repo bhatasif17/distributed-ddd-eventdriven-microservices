@@ -32,7 +32,7 @@ public class PositionClosedEventHandler : INotificationHandler<PositionClosedEve
         await _messageBus.PublishAsync(new PositionClosedNotification(
             position.Id,
             position.InstrumentId,
-            DateTime.UtcNow), "position-closed-event"); //position-closed-event doesnt exist
+            DateTime.UtcNow), "position-closed-event");
     }
 }
 

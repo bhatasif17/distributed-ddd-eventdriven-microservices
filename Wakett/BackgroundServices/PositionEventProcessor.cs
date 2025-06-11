@@ -62,7 +62,6 @@ public class PositionEventProcessor : BackgroundService
                     var rateEvent = JsonSerializer.Deserialize<PositionValueDto>(body);
                     if (rateEvent != null)
                     {
-                        //i haven't created update-rate-event in azure
                         await _messageBus.PublishAsync(rateEvent with {UpdatedAt = DateTime.UtcNow}, "update-rate-event");
                         //await mediator.Publish(rateEvent, args.CancellationToken);
                     }
