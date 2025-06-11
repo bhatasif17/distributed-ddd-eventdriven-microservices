@@ -1,0 +1,68 @@
+# Rider-specific
+.idea/
+*.sln.iml
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+*.dll
+*.exe
+*.app
+*.log
+*.vspscc
+*.vssscc
+
+# Rider caches
+.idea/
+.idea/.idea.Rider/
+.idea/.idea.HttpRequests/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/.idea.DockerSettings/
+
+# Rider settings (optional)
+.idea/.idea.*.xml
+.idea/.idea.*.iml
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# VS Code compatibility
+.vscode/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+*.nuspec
+
+# Logs
+*.log
+
+# OS-generated
+.DS_Store
+Thumbs.db
+
+# JetBrains IDE indexing
+.idea/.cache/
+.idea/index/
+.idea/.gradle/
+.idea/httpRequests/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Test results
+TestResults/
